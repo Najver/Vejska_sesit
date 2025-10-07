@@ -5,7 +5,7 @@
 ### Vektor 
 def(vektor) uspořádaná n-tice reálných čísel 
 zápis/notace : (a1 ,a2 ,aX), a1, ... € R
-![[Fotky/Pasted image 20250917144126.png]]
+![[Vejska/Fotky/Pasted image 20250917144126.png]]
 
 (1,2) + (3,0) = (4,2)
 
